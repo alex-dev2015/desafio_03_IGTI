@@ -46,7 +46,7 @@ Executar o servidor para rodar o projeto
 
 ## 🎈 Uso <a name="usage"></a>
 
-
+![Juros](https://github.com/alex-dev2015/desafio_03_IGTI/blob/master/src/assets/image/Juros%20Compostos.gif)
 
 
 ## ⛏️ Ferramentas usadas <a name = "built_using"></a>
